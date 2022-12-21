@@ -1,4 +1,6 @@
-.form-control {
+/* No Longer used since all the stylings are produced through Styled-components */
+
+/* .form-control {
   margin: 0.5rem 0;
 }
 
@@ -22,3 +24,12 @@
   background: #fad0ec;
   border-color: #8b005d;
 }
+
+.form-control.invalid input {
+  border-color: red;
+  background: rgb(255, 194, 194);
+}
+
+.form-control.invalid label {
+  color: red;
+} */
